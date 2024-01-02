@@ -1,0 +1,16 @@
+{
+  "name": "cypress-carulla-retoqa",
+  "version": "1.0.0",
+  "description": "Reto tecnico SQA",
+  "main": "index.js",
+  "scripts": {
+    "launch:cypress": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Santiago Valderrama Alvarez",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.2",
+    "cypress-xpath": "^2.0.1"
+  }
+}
